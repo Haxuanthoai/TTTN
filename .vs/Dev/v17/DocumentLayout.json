@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NetCoreMVC\\Dev\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2D8FA0-6EFF-42E5-91AF-10D93D6436E4}|Dev\\Dev.csproj|d:\\netcoremvc\\dev\\dev\\areas\\admins\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C2D8FA0-6EFF-42E5-91AF-10D93D6436E4}|Dev\\Dev.csproj|solutionrelative:dev\\areas\\admins\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2D8FA0-6EFF-42E5-91AF-10D93D6436E4}|Dev\\Dev.csproj|d:\\netcoremvc\\dev\\dev\\areas\\admins\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C2D8FA0-6EFF-42E5-91AF-10D93D6436E4}|Dev\\Dev.csproj|solutionrelative:dev\\areas\\admins\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2D8FA0-6EFF-42E5-91AF-10D93D6436E4}|Dev\\Dev.csproj|d:\\netcoremvc\\dev\\dev\\areas\\admins\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C2D8FA0-6EFF-42E5-91AF-10D93D6436E4}|Dev\\Dev.csproj|solutionrelative:dev\\areas\\admins\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2D8FA0-6EFF-42E5-91AF-10D93D6436E4}|Dev\\Dev.csproj|d:\\netcoremvc\\dev\\dev\\areas\\admins\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C2D8FA0-6EFF-42E5-91AF-10D93D6436E4}|Dev\\Dev.csproj|solutionrelative:dev\\areas\\admins\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2D8FA0-6EFF-42E5-91AF-10D93D6436E4}|Dev\\Dev.csproj|d:\\netcoremvc\\dev\\dev\\areas\\admins\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C2D8FA0-6EFF-42E5-91AF-10D93D6436E4}|Dev\\Dev.csproj|solutionrelative:dev\\areas\\admins\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2D8FA0-6EFF-42E5-91AF-10D93D6436E4}|Dev\\Dev.csproj|d:\\netcoremvc\\dev\\dev\\areas\\admins\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C2D8FA0-6EFF-42E5-91AF-10D93D6436E4}|Dev\\Dev.csproj|solutionrelative:dev\\areas\\admins\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2D8FA0-6EFF-42E5-91AF-10D93D6436E4}|Dev\\Dev.csproj|d:\\netcoremvc\\dev\\dev\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C2D8FA0-6EFF-42E5-91AF-10D93D6436E4}|Dev\\Dev.csproj|solutionrelative:dev\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2D8FA0-6EFF-42E5-91AF-10D93D6436E4}|Dev\\Dev.csproj|d:\\netcoremvc\\dev\\dev\\views\\carts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C2D8FA0-6EFF-42E5-91AF-10D93D6436E4}|Dev\\Dev.csproj|solutionrelative:dev\\views\\carts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 245,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\NetCoreMVC\\Dev\\Dev\\Areas\\Admins\\Views\\Categories\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Dev\\Areas\\Admins\\Views\\Categories\\Delete.cshtml",
+              "ToolTip": "D:\\NetCoreMVC\\Dev\\Dev\\Areas\\Admins\\Views\\Categories\\Delete.cshtml",
+              "RelativeToolTip": "Dev\\Areas\\Admins\\Views\\Categories\\Delete.cshtml",
+              "ViewState": "AQIAACkAAAAAAAAAAAAuwHgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T04:59:40.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\NetCoreMVC\\Dev\\Dev\\Areas\\Admins\\Views\\Categories\\Details.cshtml",
+              "RelativeDocumentMoniker": "Dev\\Areas\\Admins\\Views\\Categories\\Details.cshtml",
+              "ToolTip": "D:\\NetCoreMVC\\Dev\\Dev\\Areas\\Admins\\Views\\Categories\\Details.cshtml",
+              "RelativeToolTip": "Dev\\Areas\\Admins\\Views\\Categories\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHUAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T04:59:23.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\NetCoreMVC\\Dev\\Dev\\Areas\\Admins\\Views\\Categories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Dev\\Areas\\Admins\\Views\\Categories\\Edit.cshtml",
+              "ToolTip": "D:\\NetCoreMVC\\Dev\\Dev\\Areas\\Admins\\Views\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "Dev\\Areas\\Admins\\Views\\Categories\\Edit.cshtml",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAuwG4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T04:58:26.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\NetCoreMVC\\Dev\\Dev\\Areas\\Admins\\Views\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "Dev\\Areas\\Admins\\Views\\Categories\\Create.cshtml",
+              "ToolTip": "D:\\NetCoreMVC\\Dev\\Dev\\Areas\\Admins\\Views\\Categories\\Create.cshtml",
+              "RelativeToolTip": "Dev\\Areas\\Admins\\Views\\Categories\\Create.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAuwFkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T04:48:37.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\NetCoreMVC\\Dev\\Dev\\Areas\\Admins\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "Dev\\Areas\\Admins\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "D:\\NetCoreMVC\\Dev\\Dev\\Areas\\Admins\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "Dev\\Areas\\Admins\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T04:30:52.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_SideBar.cshtml",
+              "DocumentMoniker": "D:\\NetCoreMVC\\Dev\\Dev\\Areas\\Admins\\Views\\Shared\\_SideBar.cshtml",
+              "RelativeDocumentMoniker": "Dev\\Areas\\Admins\\Views\\Shared\\_SideBar.cshtml",
+              "ToolTip": "D:\\NetCoreMVC\\Dev\\Dev\\Areas\\Admins\\Views\\Shared\\_SideBar.cshtml",
+              "RelativeToolTip": "Dev\\Areas\\Admins\\Views\\Shared\\_SideBar.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAA4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T04:25:46.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\NetCoreMVC\\Dev\\Dev\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Dev\\Controllers\\CartController.cs",
+              "ToolTip": "D:\\NetCoreMVC\\Dev\\Dev\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Dev\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwCQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T04:08:15.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\NetCoreMVC\\Dev\\Dev\\Views\\Carts\\Index.cshtml",
+              "RelativeDocumentMoniker": "Dev\\Views\\Carts\\Index.cshtml",
+              "ToolTip": "D:\\NetCoreMVC\\Dev\\Dev\\Views\\Carts\\Index.cshtml",
+              "RelativeToolTip": "Dev\\Views\\Carts\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T04:07:24.836Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
